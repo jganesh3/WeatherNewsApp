@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather and News</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="News">This is News Fragment</string>
+    <string name="Weather">This is Weather Fragment</string>
+    <string name="Stocks">This is Stocks Fragment</string>
+    <string name="refresh_icon">refresh</string>
+    <string name="search">Search</string>
+    <string name="remove_from_list">Remove</string>
+    <string name="tvSymbol">Symbol</string>
+    <string name="curent_weather">weather</string>
+    <string name="temp">temp</string>
+    <string name="Location">Locatin</string>
+    <string name="weatherImage">wImage</string>
+    <string name="stockSymbol">Stock Symbol</string>
+    <string name="cmpName">Name</string>
+    <string name="dayHigh">Days High</string>
+    <string name="daylow">Days Low</string>
+    <string name="change">Chnage</string>
+    <string name="share">Share</string>
+    <string name="more">More..</string>
+    <string name="search_hint">Search Hint</string>
+    <string name="Setting">Settings</string>
+    <string name="title_activity_my_preferences">MyPreferences</string>
+    <string name="add_location">Add</string>
+    <string name="delete">Delete</string>
+    <string name="splash">Splash</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>

@@ -1,0 +1,46 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.CSCI567.weathernews.MyPreferences"
+    tools:ignore="MergeRootFrame" >
+
+    <TableLayout
+        android:id="@+id/TableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <AutoCompleteTextView
+                android:id="@+id/locationET"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                 >
+
+                <requestFocus />
+            </AutoCompleteTextView>
+
+            <Button
+                android:id="@+id/addlocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_location" />
+
+        </TableRow>
+
+        <ListView
+            android:id="@+id/locationListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+
+    </TableLayout>
+
+</FrameLayout>
+<!-- From: file:/C:/AndroidStudioWorkspace/weatherApp/app/src/main/res/layout/activity_my_preferences.xml -->

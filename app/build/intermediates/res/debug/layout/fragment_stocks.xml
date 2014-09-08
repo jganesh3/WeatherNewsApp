@@ -1,0 +1,60 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.CSCI567.weathernews.Stocks" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/stockSymbol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="textCapCharacters"
+                android:ems="10" >
+
+                <requestFocus />
+            </EditText>
+
+            <Button
+                android:id="@+id/addToList"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:text="@string/search" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </TableRow>
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+
+    </TableLayout>
+    
+</FrameLayout>
+<!-- From: file:/C:/AndroidStudioWorkspace/weatherApp/app/src/main/res/layout/fragment_stocks.xml -->

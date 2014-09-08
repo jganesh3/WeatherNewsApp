@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/symbolLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/stockSymbol" 
+            style="@style/textSmall"/>
+
+        <TextView
+            android:id="@+id/symbol"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:textSize="15sp" >
+        </TextView>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/cmpName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cmpName"
+            style="@style/textSmall" />
+
+        <TextView
+            android:id="@+id/Name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+           android:textSize="15sp" >
+        </TextView>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        >
+
+        <TextView
+            android:id="@+id/dayHih"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/dayHigh"
+            style="@style/textSmall" />
+
+        <TextView
+            android:id="@+id/daysHigh"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:textSize="15sp" >
+        </TextView>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" >
+
+        <TextView
+            style="@style/textSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/daylow" />
+
+        <TextView
+            android:id="@+id/daysLow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:textSize="15sp" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+         >
+
+        	<TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/change"
+            style="@style/textSmall" />
+
+        <TextView
+            android:id="@+id/change"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:textSize="15sp" >
+        </TextView>
+    </TableRow>
+
+</TableLayout>

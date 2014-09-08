@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/city"
+        style="@style/textMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="29dp"
+        android:text="@string/Location" />
+
+    <TextView
+        android:id="@+id/temperature"
+        style="@style/textBig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/city"
+        android:text="@string/temp" />
+
+    <ImageView
+        android:id="@+id/wImage"
+        android:layout_width="82dp"
+        android:layout_height="82dp"
+        android:layout_alignBottom="@+id/temperature"
+        android:layout_marginBottom="19dp"
+        android:layout_marginLeft="39dp"
+        android:layout_toRightOf="@+id/temperature"
+        android:src="@drawable/ic_launcher" android:contentDescription="@string/weatherImage"/>
+
+    <TextView
+        android:id="@+id/description"
+        style="@style/textMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/wImage"
+        android:layout_below="@+id/wImage"
+        android:text="@string/temp" />
+
+    <ImageView
+        android:id="@+id/temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/wImage"
+        android:layout_toLeftOf="@+id/description"
+        android:src="@drawable/f" 
+        android:contentDescription="@string/app_name" />
+
+</RelativeLayout><!-- From: file:/C:/AndroidStudioWorkspace/weatherApp/app/src/main/res/layout/custome_weather.xml -->

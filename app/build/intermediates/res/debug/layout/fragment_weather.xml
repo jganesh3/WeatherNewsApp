@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.CSCI567.weathernews.Weather" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ListView
+        android:id="@+id/weatherlistView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</FrameLayout>
+<!-- From: file:/C:/AndroidStudioWorkspace/weatherApp/app/src/main/res/layout/fragment_weather.xml -->

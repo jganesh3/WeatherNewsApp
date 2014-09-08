@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\AndroidStudioWorkspace\weatherApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res" >
+            <file
+                name="ab_background_textured_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable\ab_background_textured_weathernewsapp.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_cab_done_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable\btn_cab_done_weathernewsapp.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="progress_horizontal_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable\progress_horizontal_weathernewsapp.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selectable_background_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable\selectable_background_weathernewsapp.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spinner_background_ab_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable\spinner_background_ab_weathernewsapp.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tab_indicator_ab_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable\tab_indicator_ab_weathernewsapp.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ab_bottom_solid_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ab_solid_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ab_stacked_solid_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ab_texture_tile_weathernewsapp.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_transparent_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ab_transparent_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\btn_cab_done_default_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\btn_cab_done_focused_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\btn_cab_done_pressed_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\cab_background_bottom_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_top_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\cab_background_top_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="f"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\f.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ic_action_refresh.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ic_action_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\list_focused_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\list_pressed_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\menu_dropdown_panel_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_bg_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\progress_bg_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_primary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\progress_primary_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_secondary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\progress_secondary_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\spinner_ab_default_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\spinner_ab_disabled_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\spinner_ab_focused_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\spinner_ab_pressed_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="splash"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\splash.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\tab_selected_focused_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\tab_selected_pressed_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\tab_selected_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\tab_unselected_focused_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\tab_unselected_pressed_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-hdpi\tab_unselected_weathernewsapp.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ab_bottom_solid_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ab_solid_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ab_stacked_solid_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ab_texture_tile_weathernewsapp.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_transparent_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ab_transparent_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\btn_cab_done_default_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\btn_cab_done_focused_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\btn_cab_done_pressed_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\cab_background_bottom_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_top_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\cab_background_top_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="f"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\f.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ic_action_refresh.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ic_action_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="list_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\list_focused_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="list_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\list_pressed_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\menu_dropdown_panel_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_bg_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\progress_bg_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_primary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\progress_primary_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_secondary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\progress_secondary_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\spinner_ab_default_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\spinner_ab_disabled_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\spinner_ab_focused_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\spinner_ab_pressed_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="splash"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\splash.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\tab_selected_focused_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\tab_selected_pressed_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\tab_selected_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\tab_unselected_focused_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\tab_unselected_pressed_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-mdpi\tab_unselected_weathernewsapp.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ab_bottom_solid_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ab_solid_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ab_stacked_solid_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ab_texture_tile_weathernewsapp.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_transparent_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ab_transparent_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\btn_cab_done_default_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\btn_cab_done_focused_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\btn_cab_done_pressed_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\cab_background_bottom_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_top_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\cab_background_top_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="f"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\f.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ic_action_search.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="list_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\list_focused_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="list_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\list_pressed_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\menu_dropdown_panel_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_bg_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\progress_bg_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_primary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\progress_primary_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_secondary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\progress_secondary_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\spinner_ab_default_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\spinner_ab_disabled_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\spinner_ab_focused_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\spinner_ab_pressed_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="splash"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\splash.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\tab_selected_focused_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\tab_selected_pressed_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\tab_selected_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\tab_unselected_focused_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\tab_unselected_pressed_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xhdpi\tab_unselected_weathernewsapp.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ab_bottom_solid_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ab_solid_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ab_stacked_solid_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ab_texture_tile_weathernewsapp.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ab_transparent_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ab_transparent_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\btn_cab_done_default_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\btn_cab_done_focused_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_cab_done_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\btn_cab_done_pressed_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_bottom_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\cab_background_bottom_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="cab_background_top_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\cab_background_top_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="f"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\f.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ic_action_refresh.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ic_action_search.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="list_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\list_focused_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="list_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\list_pressed_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\menu_dropdown_panel_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_bg_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\progress_bg_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_primary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\progress_primary_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_secondary_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\progress_secondary_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_default_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\spinner_ab_default_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\spinner_ab_disabled_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\spinner_ab_focused_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\spinner_ab_pressed_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="splash"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\splash.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\tab_selected_focused_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\tab_selected_pressed_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_selected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\tab_selected_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\tab_unselected_focused_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\tab_unselected_pressed_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="tab_unselected_weathernewsapp"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxhdpi\tab_unselected_weathernewsapp.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\drawable-xxxhdpi\ic_launcher.png"
+                qualifiers="xxxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_my_preferences"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\activity_my_preferences.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custome_news"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\custome_news.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custome_weather"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\custome_weather.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_stocks"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\custom_stocks.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_my_preferences"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\fragment_my_preferences.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_news"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\fragment_news.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_stocks"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\fragment_stocks.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_weather"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\layout\fragment_weather.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="delete"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\menu\delete.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_activity_action"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\menu\main_activity_action.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="my_preferences"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\menu\my_preferences.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="splash"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\menu\splash.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="wether"
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\menu\wether.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="color_black" >#000000
+                </color>
+                <color name="red" >#F20505
+                </color>
+                <color name="black" >#000000
+                </color>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="temerature" >62dp
+                </dimen>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="change" >Chnage
+                </string>
+                <string name="more" >More..
+                </string>
+                <string name="Location" >Locatin
+                </string>
+                <string name="stockSymbol" >Stock Symbol
+                </string>
+                <string name="cmpName" >Name
+                </string>
+                <string name="temp" >temp
+                </string>
+                <string name="splash" >Splash
+                </string>
+                <string name="title_activity_splash" >SplashActivity
+                </string>
+                <string name="delete" >Delete
+                </string>
+                <string name="Setting" >Settings
+                </string>
+                <string name="curent_weather" >weather
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="weatherImage" >wImage
+                </string>
+                <string name="app_name" >Weather and News
+                </string>
+                <string name="add_location" >Add
+                </string>
+                <string name="Weather" >This is Weather Fragment
+                </string>
+                <string name="Stocks" >This is Stocks Fragment
+                </string>
+                <string name="search_hint" >Search Hint
+                </string>
+                <string name="title_activity_my_preferences" >MyPreferences
+                </string>
+                <string name="share" >Share
+                </string>
+                <string name="refresh_icon" >refresh
+                </string>
+                <string name="remove_from_list" >Remove
+                </string>
+                <string name="News" >This is News Fragment
+                </string>
+                <string name="tvSymbol" >Symbol
+                </string>
+                <string name="search" >Search
+                </string>
+                <string name="dayHigh" >Days High
+                </string>
+                <string name="daylow" >Days Low
+                </string>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values\styles_weathernewsapp.xml"
+                qualifiers="" >
+
+                <style
+                    name="ActionBar.Transparent.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:background">
+@drawable/ab_transparent_weathernewsapp
+                    </item>
+                    <item name="android:progressBarStyle">
+@style/ProgressBar.Weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarTabStyle.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ActionBar.TabView" >
+                    <item name="android:background">
+@drawable/tab_indicator_ab_weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="PopupMenu.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ListPopupWindow" >
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel_weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Weathernewsapp"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:actionBarItemBackground">
+@drawable/selectable_background_weathernewsapp
+                    </item>
+                    <item name="android:popupMenuStyle">
+@style/PopupMenu.Weathernewsapp
+                    </item>
+                    <item name="android:dropDownListViewStyle">
+@style/DropDownListView.Weathernewsapp
+                    </item>
+                    <item name="android:actionBarTabStyle">
+@style/ActionBarTabStyle.Weathernewsapp
+                    </item>
+                    <item name="android:actionDropDownStyle">
+@style/DropDownNav.Weathernewsapp
+                    </item>
+                    <item name="android:actionBarStyle">
+@style/ActionBar.Transparent.Weathernewsapp
+                    </item>
+                    <item name="android:actionModeBackground">
+@drawable/cab_background_top_weathernewsapp
+                    </item>
+                    <item name="android:actionModeSplitBackground">
+@drawable/cab_background_bottom_weathernewsapp
+                    </item>
+                    <item name="android:actionModeCloseButtonStyle">
+@style/ActionButton.CloseMode.Weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="ProgressBar.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ProgressBar.Horizontal" >
+                    <item name="android:progressDrawable">
+@drawable/progress_horizontal_weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="textMedium"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textSize">
+30sp
+                    </item>
+                </style>
+
+                <style
+                    name="DropDownNav.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.Spinner" >
+                    <item name="android:background">
+@drawable/spinner_background_ab_weathernewsapp
+                    </item>
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel_weathernewsapp
+                    </item>
+                    <item name="android:dropDownSelector">
+@drawable/selectable_background_weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="textVerySmall"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+8sp
+                    </item>
+                </style>
+
+                <style
+                    name="DropDownListView.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ListView.DropDown" >
+                    <item name="android:listSelector">
+@drawable/selectable_background_weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Weathernewsapp.Widget"
+                    parent="@android:style/Theme.Holo" >
+                    <item name="android:popupMenuStyle">
+@style/PopupMenu.Weathernewsapp
+                    </item>
+                    <item name="android:dropDownListViewStyle">
+@style/DropDownListView.Weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="textBig"
+                    parent="@android:style/TextAppearance.Large" >
+                    <item name="android:textSize">
+82sp
+                    </item>
+                </style>
+
+                <style
+                    name="ActionButton.CloseMode.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ActionButton.CloseMode" >
+                    <item name="android:background">
+@drawable/btn_cab_done_weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBar.Solid.Weathernewsapp"
+                    parent="@android:style/Widget.Holo.ActionBar.Solid" >
+                    <item name="android:background">
+@drawable/ab_solid_weathernewsapp
+                    </item>
+                    <item name="android:backgroundStacked">
+@drawable/ab_stacked_solid_weathernewsapp
+                    </item>
+                    <item name="android:backgroundSplit">
+@drawable/ab_bottom_solid_weathernewsapp
+                    </item>
+                    <item name="android:progressBarStyle">
+@style/ProgressBar.Weathernewsapp
+                    </item>
+                </style>
+
+                <style
+                    name="textSmall"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\AndroidStudioWorkspace\weatherApp\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\AndroidStudioWorkspace\weatherApp\app\build\generated\res\rs\debug" />
+        <source path="C:\AndroidStudioWorkspace\weatherApp\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\AndroidStudioWorkspace\weatherApp\app\src\debug\res" />
+    </dataSet>
+
+</merger>
